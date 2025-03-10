@@ -3,7 +3,7 @@
 ## Yolo Quadrant, Tooth number, and disease predictions
 ![val_0](https://github.com/user-attachments/assets/6db71d72-729c-46aa-9c74-e46ff893d51b)
 
-## Yolo Aggrate Predictions
+## Yolo Aggregate Predictions
 ![val_0-2](https://github.com/user-attachments/assets/8612a1ca-f056-4285-ad5e-ae7a70338965)
 
 ## Get tooth bounding boxes
