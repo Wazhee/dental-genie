@@ -1,4 +1,4 @@
-![val_0](https://github.com/user-attachments/assets/aa91f77d-0ebd-40fd-8a1b-55f38c1f07ba)# Dental Genie
+# Dental Genie
 
 ## Yolo Quadrant, Tooth number, and disease predictions
 ![val_0](https://github.com/user-attachments/assets/6db71d72-729c-46aa-9c74-e46ff893d51b)
